@@ -46,8 +46,8 @@
 		<img height="23" alt="" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&color=555" />
 	</div>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=sakanafuto&count_private=true&show_icons=true&hide=issues,contribs&theme=" width="39%" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakanafuto&layout=compact&hide=javascript,scss,cmake,cp" width="25%" />
+	<img src="https://github-readme-stats.vercel.app/api?username=sakanafuto&count_private=true&show_icons=true&hide=issues,contribs&theme=" width="" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakanafuto&layout=compact&hide=javascript,scss,cmake,cp" width="" />
 	<br>
 	<h1>🏆 Trophies</h1>
 	<img src="https://github-profile-trophy.vercel.app/?username=sakanafuto&theme=oldie&no-frame=true&no-bg=true&row=1" width="100%" />
